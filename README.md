@@ -1,2 +1,2 @@
-# html-form-validation-regex
+# HTML Form Validation RegEx
 Validating HTML Form fields using Regular Expressions 
